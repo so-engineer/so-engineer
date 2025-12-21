@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a backend engineer working in Japan.
+I am a software engineer working in Japan.
 
 Currently, I mainly develop LLM applications.
 
